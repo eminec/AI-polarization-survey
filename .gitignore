@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+responses.csv
+responses_test.csv
+.env
+.streamlit
+
+.DS_Store
